@@ -1,2 +1,2 @@
 # SimGRL
-Official Code for SimGRL-NeurIPS2024
+Official Code for SimGRL in NeurIPS 2024
