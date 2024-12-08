@@ -22,7 +22,11 @@ The [DAVIS](https://davischallenge.org/davis2017/code.html) dataset for video ba
 wget https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-trainval-480p.zip
 ```
 
-
+# Training
+```
+python src/train.py \
+  --algorithm simgrl \
+```
 
 # Citation
 If you find this code useful for your research, please use the following BibTeX entry.
