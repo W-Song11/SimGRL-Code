@@ -25,7 +25,7 @@ wget https://data.vision.ee.ethz.ch/csergi/share/davis/DAVIS-2017-trainval-480p.
 # Training
 ```
 python src/train.py \
-  --algorithm simgrl \
+  --algorithm simgrl
 ```
 
 # Citation
