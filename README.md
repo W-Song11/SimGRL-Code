@@ -1,6 +1,8 @@
 # SimGRL
 Official Code for SimGRL in NeurIPS 2024.
 
+Project Page: [SimGRL](https://w-song11.github.io/SimGRL)
+
 # Setup
 ```
 conda env create -f setup/conda.yaml
